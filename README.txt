@@ -1,0 +1,4 @@
+- create virtualenv with python 3.8.3
+- pip install mediapipe
+- execute detect_hand_image.py 
+- execute detect_hand_video.py (u need webcam active)
